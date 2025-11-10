@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="91 120 693 507" width="602px" height="387px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="256" y1="305" x2="246" y2="305" style="stroke:#333;stroke-width:1;"/>
+   <line x1="181" y1="402" x2="171" y2="402" style="stroke:#333;stroke-width:1;"/>
+   <line x1="246" y1="305" x2="181" y2="402" style="stroke:#333;stroke-width:1;"/>
+   <line x1="248.5" y1="305" x2="252.03553390593" y2="308.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="248.5" y1="305" x2="252.03553390593" y2="301.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="176" y1="402" x2="179.53553390593" y2="405.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="176" y1="402" x2="179.53553390593" y2="398.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <rect width="65" height="20" x="106" y="372" style="fill:#007;stroke:black;"/>
+   <text width="65" height="20" x="111" y="386" style="fill:#fff;" font-family="Arial" font-size="16px"> clientes</text>
+   <rect width="65" height="20" x="106" y="392" style="fill:none;stroke:black;"/>
+   <text width="65" height="20" x="111" y="406" style="fill:black;" font-family="Arial" font-size="16px">idcli</text>
+   <rect width="65" height="20" x="106" y="412" style="fill:none;stroke:black;"/>
+   <text width="65" height="20" x="111" y="426" style="fill:black;" font-family="Arial" font-size="16px">nomecli</text>
+   <rect width="65" height="20" x="106" y="432" style="fill:none;stroke:black;"/>
+   <text width="65" height="20" x="111" y="446" style="fill:black;" font-family="Arial" font-size="16px">endcli</text>
+   <rect width="65" height="20" x="106" y="452" style="fill:none;stroke:black;"/>
+   <text width="65" height="20" x="111" y="466" style="fill:black;" font-family="Arial" font-size="16px">fonecli</text>
+   <rect width="65" height="20" x="106" y="472" style="fill:none;stroke:black;"/>
+   <text width="65" height="20" x="111" y="486" style="fill:black;" font-family="Arial" font-size="16px">emailcli</text>
+   <rect width="110" height="20" x="256" y="135" style="fill:#007;stroke:black;"/>
+   <text width="110" height="20" x="261" y="149" style="fill:#fff;" font-family="Arial" font-size="16px"> ordem_servico</text>
+   <rect width="110" height="20" x="256" y="155" style="fill:none;stroke:black;"/>
+   <text width="110" height="20" x="261" y="169" style="fill:black;" font-family="Arial" font-size="16px">os</text>
+   <rect width="110" height="20" x="256" y="175" style="fill:none;stroke:black;"/>
+   <text width="110" height="20" x="261" y="189" style="fill:black;" font-family="Arial" font-size="16px">data_os</text>
+   <rect width="110" height="20" x="256" y="195" style="fill:none;stroke:black;"/>
+   <text width="110" height="20" x="261" y="209" style="fill:black;" font-family="Arial" font-size="16px">equipamento</text>
+   <rect width="110" height="20" x="256" y="215" style="fill:none;stroke:black;"/>
+   <text width="110" height="20" x="261" y="229" style="fill:black;" font-family="Arial" font-size="16px">defeito</text>
+   <rect width="110" height="20" x="256" y="235" style="fill:none;stroke:black;"/>
+   <text width="110" height="20" x="261" y="249" style="fill:black;" font-family="Arial" font-size="16px">servico</text>
+   <rect width="110" height="20" x="256" y="255" style="fill:none;stroke:black;"/>
+   <text width="110" height="20" x="261" y="269" style="fill:black;" font-family="Arial" font-size="16px">tecnico</text>
+   <rect width="110" height="20" x="256" y="275" style="fill:none;stroke:black;"/>
+   <text width="110" height="20" x="261" y="289" style="fill:black;" font-family="Arial" font-size="16px">valor</text>
+   <rect width="110" height="20" x="256" y="295" style="fill:none;stroke:black;"/>
+   <text width="110" height="20" x="261" y="309" style="fill:black;" font-family="Arial" font-size="16px">idcli</text>
+   <rect width="69" height="20" x="609" y="280" style="fill:#007;stroke:black;"/>
+   <text width="69" height="20" x="614" y="294" style="fill:#fff;" font-family="Arial" font-size="16px"> usuarios</text>
+   <rect width="69" height="20" x="609" y="300" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="614" y="314" style="fill:black;" font-family="Arial" font-size="16px">iduser</text>
+   <rect width="69" height="20" x="609" y="320" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="614" y="334" style="fill:black;" font-family="Arial" font-size="16px">usuario</text>
+   <rect width="69" height="20" x="609" y="340" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="614" y="354" style="fill:black;" font-family="Arial" font-size="16px">fone</text>
+   <rect width="69" height="20" x="609" y="360" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="614" y="374" style="fill:black;" font-family="Arial" font-size="16px">login</text>
+   <rect width="69" height="20" x="609" y="380" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="614" y="394" style="fill:black;" font-family="Arial" font-size="16px">senha</text>
+</svg>
